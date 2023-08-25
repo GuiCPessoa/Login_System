@@ -1,0 +1,19 @@
+.background{
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.link{
+    text-align: center;
+}
